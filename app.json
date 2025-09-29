@@ -22,7 +22,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.rnexpoexample"
+      "package": "com.markopenava.rnexpoexample"
     },
     "web": {
       "favicon": "./assets/favicon.png"
