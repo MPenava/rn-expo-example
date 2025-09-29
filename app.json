@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b8ee5488-8f31-49ef-a0ea-2a9c6c8ae2bb"
+      }
+    },
+    "owner": "markopenava"
   }
 }
