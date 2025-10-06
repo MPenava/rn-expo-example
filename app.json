@@ -32,6 +32,12 @@
         "projectId": "b8ee5488-8f31-49ef-a0ea-2a9c6c8ae2bb"
       }
     },
-    "owner": "markopenava"
+    "owner": "markopenava",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b8ee5488-8f31-49ef-a0ea-2a9c6c8ae2bb"
+    }
   }
 }
